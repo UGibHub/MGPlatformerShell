@@ -1,0 +1,10 @@
+This is a testing playground for a future platformer I'd like to make. 100% experiemental. It is also meant to be used in tandem with another MG project
+I am working on, my Tile Editor program. Making tilemaps in that project, and copy/pasting them over to the  World/Levels folder here.
+
+This should work out of the box in it's present state. (Not that there is much to really do yet. My efforts have been focused on the tile editor.)
+
+IF you should want to create a map of your own using my other program (See the repository on my GitHub) you will have to alter the filepath in the Game1.cs
+file in this project. On line 66, just rename the filepath to whatever you decide to name your export Json in the tile editor, 
+and obviously cut/paste it from that project to this one.
+
+Sidenote I set this up for my 1920/1080 resolution laptop. Your mileage may vary, (I code/game on a toaster by todays standards.)

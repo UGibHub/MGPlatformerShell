@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9VndWuAEtQ2XOmw2FgC7WcYI8gf6pjq/gz6spN4Bq/jzBZ6Mx+Xmgtzq1mN9mDyJ28lUJ6vgLKlZv0CwdAHVXg==",
+  "success": true,
+  "projectFilePath": "/home/gherb/Documents/CSharp/ZMonogame StuffZ/TestingStuff/PlatformerShell/PlatformerShell.csproj",
+  "expectedPackageFiles": [
+    "/home/gherb/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/gherb/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/gherb/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/gherb/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/gherb/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.32/microsoft.netcore.app.host.linux-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
